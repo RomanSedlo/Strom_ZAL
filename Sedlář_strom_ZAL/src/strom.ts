@@ -7,3 +7,5 @@ for (let i = 0; i <= lines; i += 1){
         console.log('csl =', i % color + 1)
     }
 }
+
+//for commit test
